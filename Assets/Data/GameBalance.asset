@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23b29f044ecc77241862064605450533, type: 3}
+  m_Name: GameBalance
+  m_EditorClassIdentifier: Assembly-CSharp::GameBalance
+  totalRounds: 10
+  startingBaseHp: 20
+  startingGold: 300
+  roundGoldBonus: 50
+  startingAttackBudget: 200
+  attackBudgetIncreasePerRound: 40
+  spawnInterval: 0.9
+  maxEnemiesPerWave: 50
+  towers:
+  - {fileID: 11400000, guid: 9be84bfb6e51ef144a1dd1448878c012, type: 2}
+  - {fileID: 11400000, guid: 21dd1fa6b9585c541a9272b7e10bff0f, type: 2}
+  - {fileID: 11400000, guid: b6e2f8fa9899c7a4abb82da111efd7e6, type: 2}
+  - {fileID: 11400000, guid: 946c13ef0614e2748ad18fdfa3a25e0f, type: 2}
+  enemies:
+  - {fileID: 11400000, guid: eb0fdc9c326c5b847adbb8de953fd910, type: 2}
+  - {fileID: 11400000, guid: c3d611dfe40f5e541a3e8ce602a2556c, type: 2}
+  - {fileID: 11400000, guid: bcfed79d68d84fa4ba616c044fb0a6b9, type: 2}

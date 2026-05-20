@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: d7edca529f7149a40a90323c5f10995d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2764579567692047052
+    second: Projectile_Arrow_Fixed_0
+  - first:
+      213: 3174806494747145144
+    second: Projectile_Arrow_Fixed_1
+  - first:
+      213: -9209330119942923199
+    second: Projectile_Arrow_Fixed_2
+  - first:
+      213: 5041455227593796499
+    second: Projectile_Arrow_Fixed_3
+  - first:
+      213: 1707079337362712712
+    second: Projectile_Arrow_Fixed_4
+  - first:
+      213: 6542475584797789398
+    second: Projectile_Arrow_Fixed_5
+  - first:
+      213: 8830947879894665221
+    second: Projectile_Arrow_Fixed_6
+  - first:
+      213: -7836020011007168256
+    second: Projectile_Arrow_Fixed_7
+  - first:
+      213: 8791192476662261046
+    second: Projectile_Arrow_Fixed_8
+  - first:
+      213: -6807438215037618602
+    second: Projectile_Arrow_Fixed_9
+  - first:
+      213: -4393097492552244917
+    second: Projectile_Arrow_Fixed_10
+  - first:
+      213: -3256361321742423666
+    second: Projectile_Arrow_Fixed_11
+  - first:
+      213: -1523863209039004657
+    second: Projectile_Arrow_Fixed_12
+  - first:
+      213: 8786637050693543610
+    second: Projectile_Arrow_Fixed_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Projectile_Arrow_Fixed_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 767
+        width: 26
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2669d2872cd5620800000000000000
+      internalID: 2764579567692047052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Arrow_Fixed_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 125
+        width: 225
+        height: 1081
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3b106afad2f0c20800000000000000
+      internalID: 3174806494747145144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Arrow_Fixed_2
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 882
+        width: 67
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c1f7d8c03e13080800000000000000
+      internalID: -9209330119942923199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Arrow_Fixed_3
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 769
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ba3c791d8d6f540800000000000000
+      internalID: 5041455227593796499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Arrow_Fixed_4
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 402
+        width: 69
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888e9e2ec93c0b710800000000000000
+      internalID: 1707079337362712712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Arrow_Fixed_5
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 459
+        width: 105
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dcc98f71ea8bca50800000000000000
+      internalID: 6542475584797789398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Arrow_Fixed_6
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 684
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5084c13fe44dd8a70800000000000000
+      internalID: 8830947879894665221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Arrow_Fixed_7
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 586
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001b017215dd04390800000000000000
+      internalID: -7836020011007168256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Arrow_Fixed_8
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 540
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6356a83daf6900a70800000000000000
+      internalID: 8791192476662261046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Arrow_Fixed_9
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 72
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6567342c20f1781a0800000000000000
+      internalID: -6807438215037618602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Arrow_Fixed_10
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 79
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41a3cc2b159803c0800000000000000
+      internalID: -4393097492552244917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Arrow_Fixed_11
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 0
+        width: 49
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89a83d71a41fc2d0800000000000000
+      internalID: -3256361321742423666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Arrow_Fixed_12
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 73
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c71f23c762adae0800000000000000
+      internalID: -1523863209039004657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Arrow_Fixed_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 70
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6efd018d760f970800000000000000
+      internalID: 8786637050693543610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Projectile_Arrow_Fixed_0: 2764579567692047052
+      Projectile_Arrow_Fixed_1: 3174806494747145144
+      Projectile_Arrow_Fixed_10: -4393097492552244917
+      Projectile_Arrow_Fixed_11: -3256361321742423666
+      Projectile_Arrow_Fixed_12: -1523863209039004657
+      Projectile_Arrow_Fixed_13: 8786637050693543610
+      Projectile_Arrow_Fixed_2: -9209330119942923199
+      Projectile_Arrow_Fixed_3: 5041455227593796499
+      Projectile_Arrow_Fixed_4: 1707079337362712712
+      Projectile_Arrow_Fixed_5: 6542475584797789398
+      Projectile_Arrow_Fixed_6: 8830947879894665221
+      Projectile_Arrow_Fixed_7: -7836020011007168256
+      Projectile_Arrow_Fixed_8: 8791192476662261046
+      Projectile_Arrow_Fixed_9: -6807438215037618602
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
